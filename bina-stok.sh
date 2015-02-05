@@ -1,7 +1,9 @@
 export ARCH=arm
 #unset CROSS_COMPILE
 #export CROSS_COMPILE=/opt/sabermod-gcc/bin/arm-eabi-
-export CROSS_COMPILE=/opt/gcc-linaro/arm-cortex_a15-linux-gnueabihf-linaro_4.9.1-2014.07/bin/arm-cortex_a15-linux-gnueabihf-
+#export CROSS_COMPILE=/opt/gcc-linaro/arm-cortex_a15-linux-gnueabihf-linaro_4.9.1-2014.07/bin/arm-cortex_a15-linux-gnueabihf-
+export CROSS_COMPILE=/opt/gcc-linaro/arm-cortex_a15-linux-gnueabihf-linaro_4.9.3-2014.12/bin/arm-cortex_a15-linux-gnueabihf-
+
 #echo "Cleaning old craps..."
 #make distclean
 
