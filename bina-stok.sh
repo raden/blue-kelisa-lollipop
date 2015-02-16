@@ -12,7 +12,7 @@ export CROSS_COMPILE=/opt/gcc-linaro/arm-cortex_a15-linux-gnueabihf-linaro_4.9.3
 #export CROSS_COMPILE=/opt/old-linaro/arm-linux-gnueabi-linaro_4.8.3-2014.02/bin/arm-linux-gnueabi-
 export KBUILD_BUILD_USER=najmi
 export KBUILD_BUILD_HOST="ampang"
-export LOCALVERSION="-Blue-Kelisa-v4.0"
+export LOCALVERSION="-Blue-Kelisa-v5.0"
 
 #echo "Copy backup config..."
 #cp najmi-mako-config .config
